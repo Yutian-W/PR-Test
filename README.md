@@ -7,5 +7,4 @@ Romove this line to start patch 1.
 Change this line to finish patch 1.
 
 ## Patch 2
-Remove this line? No need. Start patch 2.
 Don't change this line to finish patch 2.  
