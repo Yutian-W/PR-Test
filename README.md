@@ -6,5 +6,4 @@ This is the repo for testing pull-requests.
 This line is changed to finish patch 1.
 
 ## Patch 2
-Remove this line to start patch 2.
 Change this line to finish patch 2.  
